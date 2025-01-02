@@ -4,12 +4,11 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Web developer
 --------------------------
 
-I am an aspiring software developer, who is goal driven and currently learning how to use technology to solve problems across different niches. I am currently learning JavaScript and Java.
+I am a goal-driven web developer with a strong focus on solving real-world problems. I am passionate about building intuitive, user-friendly, and innovative software solutions that deliver value and improve the user experience. With a deep commitment to continuous learning, I strive to stay on top of the latest technologies to create impactful, efficient, and functional web applications.
 
 * 🌍  I'm based in Ekiti State, Nigeria
 * 🖥️  See my portfolio at [My links](http://linktr.ee/timidelad)
 * ✉️  You can contact me at [timilehinogunlade@gmail.com](mailto:timilehinogunlade@gmail.com)
-* 🧠  I am a goal-driven web developer passionate about solving problems and creating helpful, user-focused software solutions.
 * 🤝  I'm open to collaborating on Frontend projects
 
 ### Skills
